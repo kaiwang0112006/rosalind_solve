@@ -14,7 +14,7 @@
 
 ### 解决
 
-第一步找到在第k代每个子代是AaBb的概率p，第二步就可以假设在第k代的2<sup>k</sup>个个体中有i个个体是AaBb的概率（i=N,N+1,...2<sup>k</sup>）,加和即是结果。
+从 https://aliquote.org/post/rosalind-independent-alleles/ 看到的思路，第一步找到在第k代每个子代是AaBb的概率p，第二步就可以假设在第k代的2<sup>k</sup>个个体中有i个个体是AaBb的概率（i=N,N+1,...2<sup>k</sup>）,加和即是结果。
 
 ##### 单个子代的p值计算
 
