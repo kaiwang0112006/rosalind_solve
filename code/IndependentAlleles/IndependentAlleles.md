@@ -8,13 +8,13 @@
 
 ### 问题
 
-给定：两个正整数k和N，其中k<=7,N<=2^k(2的k次方)，假设第0代的基因型是AaBb，每代产生两个子代（所以N<=2<sup>k</sup>），每个子代总是和AaBb交配
+给定：两个正整数k和N，其中k<=7,N<=2^k(2的k次方)，假设第0代的基因型是AaBb，每代产生两个子代（所以N<=2^k），每个子代总是和AaBb交配
 
 输出：第k代至少有N个子代是AaBb的概率。（基于孟德尔第二定律）
 
 ### 解决
 
-从 https://aliquote.org/post/rosalind-independent-alleles/ 看到的思路，第一步找到在第k代每个子代是AaBb的概率p，第二步就可以假设在第k代的2<sup>k</sup>个个体中有i个个体是AaBb的概率（i=N,N+1,...2<sup>k</sup>）,加和即是结果。
+从 https://aliquote.org/post/rosalind-independent-alleles/ 看到的思路，第一步找到在第k代每个子代是AaBb的概率p，第二步就可以假设在第k代的2^k个个体中有i个个体是AaBb的概率（i=N,N+1,...2^k>）,加和即是结果。
 
 ##### 单个子代的p值计算
 
@@ -83,7 +83,7 @@
 
 ##### k代中N个目标基因型概率计算
 
-第二步这里使用了二项分布，要计算2<sup>k</sup>个个体中有i个基因型为AaBb（i=N,N+1,...2<sup>k</sup>），即做了2<sup>k</sup>个伯努利实验，每个实验是AaBb的概率是p，不是的概率是1-p，且p不等于1-p，即不能用古典概型简化。因此概率公式为
+第二步这里使用了二项分布，要计算2^k个个体中有i个基因型为AaBb（i=N,N+1,...2^k），即做了2^k个伯努利实验，每个实验是AaBb的概率是p，不是的概率是1-p，且p不等于1-p，不能用古典概型简化。因此概率公式为
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=C_{2^{k}}^{i}p^{i}(1-p)^{2^{k}-1}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?C_{2^{k}}^{i}p^{i}(1-p)^{2^{k}-1}" title="C_{2^{k}}^{i}p^{i}(1-p)^{2^{k}-1}" /></a>
 
