@@ -33,7 +33,7 @@ fasta格式的蛋白质序列通过 *http://www.uniprot.org/uniprot/uniprot_id.f
         ms = [str(m.start() + 1) for m in re.finditer(query, seqs)]
         return ms
         
-一个核心问题是motif pattern的定义，直接用 r"N[^P](S|T)[^P]" 无法应对搜索结构有overlap的情况，应该为 r'(?=(N[^P](S|T)[^P]))'
+一个核心问题是motif pattern的定义，直接用 r'N[\^P](S\|T)[\^P]' 无法应对搜索结构有overlap的情况，应该为 r'(?=(N[\^P](S\|T)[\^P]))'
 
 接下来只需要循环15个uniprot_id获取蛋白序列即可。
 
