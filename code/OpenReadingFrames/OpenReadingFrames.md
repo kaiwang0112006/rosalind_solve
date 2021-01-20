@@ -12,7 +12,8 @@
 
 ###  解决
 
-根据给定序列，如“AGCCATGTAGCTAACTCAGGTTACATGGGGATGACCCCGCGACTTGGATTAGAGTCTCTTTTGGAATAAGCCTGAATGATCCGAGTAGCATCTCAG”，先经过两重循环，外层循环以字符串的第1，2，3个字符开始切割字符串，内层循环考虑DNA的互补链。切割后先翻译成氨基酸序列，然后通过正则匹配，找到所有起始密码子到终止密码子之间的序列。当然还要记得去重。
+根据给定序列，如“AGCCATGTAGCTAACTCAGGTTACATGGGGATGACCCCGCGACTTGGA
+TTAGAGTCTCTTTTGGAATAAGCCTGAATGATCCGAGTAGCATCTCAG”，先经过两重循环，外层循环以字符串的第1，2，3个字符开始切割字符串，内层循环考虑DNA的互补链。切割后先翻译成氨基酸序列，然后通过正则匹配，找到所有起始密码子到终止密码子之间的序列。当然还要记得去重。
 
     rlist = []
     record_dict = SeqIO.to_dict(SeqIO.parse("example.fasta", "fasta"))
