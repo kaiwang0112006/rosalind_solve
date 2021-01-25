@@ -9,3 +9,4 @@
 * [Finding a Protein Motif](https://kaiwang0112006.github.io/rosalind_solve/code/FindingProteinMotif/FindingProteinMotif)
 * [Inferring mRNA from Protein](https://kaiwang0112006.github.io/rosalind_solve/code/InferringmRNAfromProtein/InferringmRNAfromProtein)
 * [Open Reading Frames](https://kaiwang0112006.github.io/rosalind_solve/code/OpenReadingFrames/OpenReadingFrames)
+* [Enumerating Gene Orders](https://kaiwang0112006.github.io/rosalind_solve/code/EnumeratingGeneOrders/EnumeratingGeneOrders)
