@@ -10,3 +10,4 @@
 * [Inferring mRNA from Protein](https://kaiwang0112006.github.io/rosalind_solve/code/InferringmRNAfromProtein/InferringmRNAfromProtein)
 * [Open Reading Frames](https://kaiwang0112006.github.io/rosalind_solve/code/OpenReadingFrames/OpenReadingFrames)
 * [Enumerating Gene Orders](https://kaiwang0112006.github.io/rosalind_solve/code/EnumeratingGeneOrders/EnumeratingGeneOrders)
+* [Calculating Protein Mass](https://kaiwang0112006.github.io/rosalind_solve/code/CalculatingProteinMass/CalculatingProteinMass)
