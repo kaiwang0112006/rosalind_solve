@@ -13,3 +13,4 @@
 * [Calculating Protein Mass](https://kaiwang0112006.github.io/rosalind_solve/code/CalculatingProteinMass/CalculatingProteinMass)
 * [Locating Restriction Sites](https://kaiwang0112006.github.io/rosalind_solve/code/LocatingRestrictionSites/LocatingRestrictionSites)
 * [RNA Splicing](https://kaiwang0112006.github.io/rosalind_solve/code/RNASplicing/RNASplicing)
+* [Enumerating k-mers Lexicographically](https://kaiwang0112006.github.io/rosalind_solve/code/EnumeratingkmersLexicographically/EnumeratingkmersLexicographically)
