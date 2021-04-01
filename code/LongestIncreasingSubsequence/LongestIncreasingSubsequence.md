@@ -19,25 +19,29 @@
 取子字符串集合的最后一个字符，按字典求上一个字符，拼接完成最长子字符串。
 
     def bisect_ascending(a, x, lo=0, hi=None):
+        '''
+        二分查找找到元素在已有递增序列中的位置
+        '''
         if lo < 0:
             raise ValueError('lo must be non-negative')
         if hi is None:
             hi = len(a)
         while lo < hi:
             mid = (lo+hi)//2
-            # Use __lt__ to match the logic in list.sort() and in heapq
             if a[mid] < x: lo = mid+1
             else: hi = mid
         return lo
 
     def bisect_descending(a, x, lo=0, hi=None):
+        '''
+        二分查找找到元素在已有递减序列中的位置
+        '''
         if lo < 0:
             raise ValueError('lo must be non-negative')
         if hi is None:
             hi = len(a)
         while lo < hi:
             mid = (lo+hi)//2
-            # Use __lt__ to match the logic in list.sort() and in heapq
             if a[mid] > x: lo = mid+1
             else: hi = mid
         return lo
