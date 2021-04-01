@@ -67,5 +67,3 @@
         sl = [i for i in sl if i not in [st, sed]]
 
         return [comb] + sl
-
-  

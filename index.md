@@ -15,3 +15,4 @@
 * [RNA Splicing](https://kaiwang0112006.github.io/rosalind_solve/code/RNASplicing/RNASplicing)
 * [Enumerating k-mers Lexicographically](https://kaiwang0112006.github.io/rosalind_solve/code/EnumeratingkmersLexicographically/EnumeratingkmersLexicographically)
 * [Longest Increasing Subsequence](https://kaiwang0112006.github.io/rosalind_solve/code/LongestIncreasingSubsequence/LongestIncreasingSubsequence)
+* [Genome Assembly as Shortest Superstring](https://kaiwang0112006.github.io/rosalind_solve/code/GenomeAssemblyasShortestSuperstring/GenomeAssemblyasShortestSuperstring)
