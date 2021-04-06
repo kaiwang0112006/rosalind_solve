@@ -12,7 +12,7 @@
 
 ### 解决
 
-这是一个基因组组装的简化版问题，首先定义一个函数可以返回两个字符串头部（或者尾部）的overlap
+这是一个基因组组装的简化版问题, 因为假设序列可以通过overlap来"首尾连接", 首先定义一个函数可以返回两个字符串头部（或者尾部）的overlap
 
     def findoverlap(s1,s2,reverse_op=False):
         '''
@@ -67,3 +67,16 @@
         sl = [i for i in sl if i not in [st, sed]]
 
         return [comb] + sl
+
+整体的solution为:
+
+    def main():
+        record_dict = SeqIO.to_dict(SeqIO.parse("example.fasta", "fasta"))
+        seqlist = []
+        for k in record_dict:
+            seqlist.append(str(record_dict[k].seq))
+
+        while len(seqlist) >1:
+            seqlist = glue(seqlist)
+        seqglue = seqlist[0]
+        print(seqglue)
