@@ -85,7 +85,12 @@
         ldsubseq.reverse()
         return ldsubseq
 
-这个方法的一个问题是不能处理重复的字符，因为字典的key是唯一的。我也写了一种效率更低的方法，比较暴力的遍历找到所有升序/降序字符串，再判断长度。
+    print(timeit.timeit("longest_decreasing_subsequence(%s)" % str(a), setup="from __main__ import longest_decreasing_subsequence")) # 7.4754391469999995
+
+这个方法执行效率很高的，可以达到O(nlogn),一个问题是不能处理重复的字符，因为字典的key是唯一的。
+
+我也写了一种效率更低的方法，比较暴力的遍历找到所有升序/降序字符串，再判断长度。这种方法执行效率为O(n^2), 从执行时间上也能看出，对
+示例中的数列运算时间差也能达到30倍。
 
     def lis_3(x,reverse_item=True):
         '''
@@ -118,6 +123,7 @@
 
     a = [5,6,4,2,9,4,3,1]
     print(lis_3(a)) # [5, 4, 4, 3, 1]
+    print(timeit.timeit("lis_3(%s)" % str(a), setup="from __main__ import lis_3")) # 231.170936291
 
 ### 扩展
 

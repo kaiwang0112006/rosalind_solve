@@ -56,7 +56,7 @@ def longest_decreasing_subsequence(seq):
         else:
             tops[i] = elem
         links[elem] = tops[i - 1] if i > 0 else None
-        print(elem, i, tops, links)
+        #print(elem, i, tops, links)
 
     ldsubseq = [tops[-1]]
     while links[ldsubseq[-1]]:
@@ -97,8 +97,9 @@ def lis_3(x,reverse_item=True):
 
 def main():
     a = [5,6,4,2,9,4,3,1]
-    #print(timeit.timeit("longest_decreasing_subsequence(%s)" % str(a), setup="from __main__ import longest_decreasing_subsequence"))
-    print(lis_3(a))
+    print(timeit.timeit("longest_decreasing_subsequence(%s)" % str(a), setup="from __main__ import longest_decreasing_subsequence"))
+    print(timeit.timeit("lis_3(%s)" % str(a), setup="from __main__ import lis_3"))
+    #print(lis_3(a))
 
 if __name__ == "__main__":
     main()
