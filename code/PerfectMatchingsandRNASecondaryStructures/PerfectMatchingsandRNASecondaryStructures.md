@@ -31,6 +31,8 @@
 
 在这张图上每一个碱基对边的完美匹配代表了一种可能的碱基对相互作用形式。而这种完美匹配存在的前提是A和U的数目相同，C和G的数目相同。
 
+<img src="https://rosalind.info/media/problems/pmch/bonding_crossing.png" title="bonding_crossing"/>
+
 ### 问题
 
 给定：一个fasta文件，包含一条RNA序列s，长度约80bp，A和U的数目相同，C和G的数目相同
