@@ -17,3 +17,4 @@
 * [Longest Increasing Subsequence](https://kaiwang0112006.github.io/rosalind_solve/code/LongestIncreasingSubsequence/LongestIncreasingSubsequence)
 * [Genome Assembly as Shortest Superstring](https://kaiwang0112006.github.io/rosalind_solve/code/GenomeAssemblyasShortestSuperstring/GenomeAssemblyasShortestSuperstring)
 * [Perfect Matchings and RNA Secondary Structures](https://kaiwang0112006.github.io/rosalind_solve/code/PerfectMatchingsandRNASecondaryStructures/PerfectMatchingsandRNASecondaryStructures)
+* [Partial Permutations](https://kaiwang0112006.github.io/rosalind_solve/code/PartialPermutations/PartialPermutations)
