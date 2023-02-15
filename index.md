@@ -1,4 +1,4 @@
-## My rosalind solution
+## My rosalind solutions
 
 ### Content
 
