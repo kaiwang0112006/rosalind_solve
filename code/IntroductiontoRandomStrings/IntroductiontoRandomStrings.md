@@ -27,7 +27,7 @@
 
 其中
 
-<a href="https://latex.codecogs.com" target="_blank"><img src="https://latex.codecogs.com/svg.image?P(s_{i})=\begin{cases}P_{A}%20&amp;%20\text{%20if%20}%20s_{i}=A%20\\P_{T}%20&amp;%20\text{%20if%20}%20s_{i}=T%20\\P_{C}%20&amp;%20\text{%20if%20}%20s_{i}=C%20\\P_{G}%20&amp;%20\text{%20if%20}%20s_{i}=G%20\end{cases}" /></a>
+<a href="https://latex.codecogs.com" target="_blank"><img src="https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/IntroductiontoRandomStrings/form1.gif" /></a>
 
 即
 
