@@ -27,7 +27,7 @@
 
 其中
 
-<a href="https://latex.codecogs.com" target="_blank"><img src="https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/IntroductiontoRandomStrings/form1.gif?raw=true" /></a>
+<a href="https://latex.codecogs.com" target="_blank"><img src="https://raw.githubusercontent.com/kaiwang0112006/rosalind_solve/main/code/IntroductiontoRandomStrings/form1.gif" /></a>
 
 即
 
