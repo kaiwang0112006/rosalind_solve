@@ -19,5 +19,7 @@
 * [Perfect Matchings and RNA Secondary Structures](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/PerfectMatchingsandRNASecondaryStructures/PerfectMatchingsandRNASecondaryStructures.md)
 * [Partial Permutations](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/PartialPermutations/PartialPermutations.md)
 * [Introduction to Random Strings](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/IntroductiontoRandomStrings/IntroductiontoRandomStrings.md)
+* [Enumerating Oriented Gene Orderings](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/EnumeratingOrientedGeneOrderings/EnumeratingOrientedGeneOrderings.md)
+
 
 	
