@@ -29,5 +29,5 @@
 
 ### 扩展
 
-在之前(“Finding a Motif in DNA”)[https://rosalind.info/problems/subs/], 曾经尝试在基因序列中以子字符串的方式查找motif。但是， DNA
+在之前([“Finding a Motif in DNA”](https://rosalind.info/problems/subs/)), 曾经尝试在基因序列中以子字符串的方式查找motif。但是， DNA
 序列常常被内含子分隔成段。所以，这一节就是试图识别被内含子分开的motif序列。
