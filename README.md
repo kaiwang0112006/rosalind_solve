@@ -1,5 +1,9 @@
 ## My [rosalind](http://rosalind.info) solutions
 
+### Page
+
+https://kaiwang0112006.github.io/rosalind_solve
+
 ### Content
 
 * [Overlap Graph](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/OverlapGraphs/overlap_graph.md)
@@ -20,5 +24,6 @@
 * [Partial Permutations](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/PartialPermutations/PartialPermutations.md)
 * [Introduction to Random Strings](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/IntroductiontoRandomStrings/IntroductiontoRandomStrings.md)
 * [Enumerating Oriented Gene Orderings](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/EnumeratingOrientedGeneOrderings/EnumeratingOrientedGeneOrderings.md)
+* [Finding a Spliced Motif](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/FindingaSplicedMotif/FindingaSplicedMotif.md)
 
 	

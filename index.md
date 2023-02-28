@@ -20,6 +20,7 @@
 * [Partial Permutations](https://kaiwang0112006.github.io/rosalind_solve/code/PartialPermutations/PartialPermutations)
 * [Introduction to Random Strings](https://kaiwang0112006.github.io/rosalind_solve/code/IntroductiontoRandomStrings/IntroductiontoRandomStrings)
 * [Enumerating Oriented Gene Orderings](https://kaiwang0112006.github.io/rosalind_solve/code/EnumeratingOrientedGeneOrderings/EnumeratingOrientedGeneOrderings)
+* [Finding a Spliced Motif](https://kaiwang0112006.github.io/rosalind_solve/code/FindingaSplicedMotif/FindingaSplicedMotif)
 
 
 	
