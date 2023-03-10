@@ -26,5 +26,6 @@ https://kaiwang0112006.github.io/rosalind_solve
 * [Enumerating Oriented Gene Orderings](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/EnumeratingOrientedGeneOrderings/EnumeratingOrientedGeneOrderings.md)
 * [Finding a Spliced Motif](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/FindingaSplicedMotif/FindingaSplicedMotif.md)
 * [Transitions and Transversions](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/TransitionsandTransversions/TransitionsandTransversions.md)
+* [Completing a Tree](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/CompletingaTree/CompletingaTree.md)
 
 	
