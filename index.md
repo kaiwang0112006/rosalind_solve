@@ -23,6 +23,7 @@
 * [Finding a Spliced Motif](https://kaiwang0112006.github.io/rosalind_solve/code/FindingaSplicedMotif/FindingaSplicedMotif)
 * [Transitions and Transversions](https://kaiwang0112006.github.io/rosalind_solve/code/TransitionsandTransversions/TransitionsandTransversions)
 * [Completing a Tree](https://kaiwang0112006.github.io/rosalind_solve/code/CompletingaTree/CompletingaTree)
+* [Catalan Numbers and RNA Secondary Structures](https://kaiwang0112006.github.io/rosalind_solve/code/CatalanNumbersandRNASecondaryStructures/CatalanNumbersandRNASecondaryStructures)
 
 
 	
