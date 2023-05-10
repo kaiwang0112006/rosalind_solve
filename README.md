@@ -28,5 +28,6 @@ https://kaiwang0112006.github.io/rosalind_solve
 * [Transitions and Transversions](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/TransitionsandTransversions/TransitionsandTransversions.md)
 * [Completing a Tree](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/CompletingaTree/CompletingaTree.md)
 * [Catalan Numbers and RNA Secondary Structures](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/CatalanNumbersandRNASecondaryStructures/CatalanNumbersandRNASecondaryStructures.md)
+* [Error Correction in Reads](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/ErrorCorrectioninReads/ErrorCorrectioninReads.md)
 
 	
