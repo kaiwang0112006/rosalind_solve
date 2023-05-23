@@ -21,8 +21,8 @@
 
 这个问题不需要编程。如图所示
 
-<a href="" target="_blank"><img src="https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/CountingPhylogeneticAncestors/pic1.png" /></a>
-<a href="" target="_blank"><img src="https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/CountingPhylogeneticAncestors/pic2.png" /></a>
+<a href="" target="_blank"><img src="https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/CountingPhylogeneticAncestors/pic1.png?raw=true" /></a>
+<a href="" target="_blank"><img src="https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/CountingPhylogeneticAncestors/pic2.png?raw=true" /></a>
 
 设内节点数是k，叶子节点数是n，遍历所有的边两遍，得到3k+n = 2((k+n)-1), 所以k=n-2。
 
