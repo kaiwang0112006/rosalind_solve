@@ -26,6 +26,7 @@
 * [Catalan Numbers and RNA Secondary Structures](https://kaiwang0112006.github.io/rosalind_solve/code/CatalanNumbersandRNASecondaryStructures/CatalanNumbersandRNASecondaryStructures)
 * [Error Correction in Reads](https://kaiwang0112006.github.io/rosalind_solve/code/ErrorCorrectioninReads/ErrorCorrectioninReads)
 * [Counting Phylogenetic Ancestors](https://kaiwang0112006.github.io/rosalind_solve/code/CountingPhylogeneticAncestors/CountingPhylogeneticAncestors)
+* [k-Mer Composition](https://kaiwang0112006.github.io/rosalind_solve/code/k-MerComposition/k-MerComposition)
 
 
 	
