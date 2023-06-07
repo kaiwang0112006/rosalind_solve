@@ -3,6 +3,8 @@ from collections import Counter
 import itertools
 from Bio.Seq import Seq
 from Bio import SeqIO
+import numpy as np
+import re
 '''
 https://rosalind.info/problems/kmer/
 '''
@@ -33,7 +35,6 @@ def main():
         else:
             rlist.append('0')
     print(" ".join(rlist))
-
 
 
 

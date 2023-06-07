@@ -31,5 +31,6 @@ https://kaiwang0112006.github.io/rosalind_solve
 * [Error Correction in Reads](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/ErrorCorrectioninReads/ErrorCorrectioninReads.md)
 * [Counting Phylogenetic Ancestors](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/CountingPhylogeneticAncestors/CountingPhylogeneticAncestors.md)
 * [k-Mer Composition](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/k-MerComposition/k-MerComposition.md)
+* [Speeding Up Motif Finding](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/SpeedingUpMotifFinding/SpeedingUpMotifFinding.md)
 
 	
