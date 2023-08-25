@@ -32,5 +32,6 @@ https://kaiwang0112006.github.io/rosalind_solve
 * [Counting Phylogenetic Ancestors](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/CountingPhylogeneticAncestors/CountingPhylogeneticAncestors.md)
 * [k-Mer Composition](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/k-MerComposition/k-MerComposition.md)
 * [Speeding Up Motif Finding](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/SpeedingUpMotifFinding/SpeedingUpMotifFinding.md)
+* [Finding a Shared Spliced Motif](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/FindingaSharedSplicedMotif/FindingaSharedSplicedMotif.md)
 
 	
