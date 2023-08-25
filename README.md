@@ -8,7 +8,7 @@ https://kaiwang0112006.github.io/rosalind_solve
 
 * [Overlap Graph](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/OverlapGraphs/overlap_graph.md)
 * [Calculating Expected Offspring](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/CalculatingExpectedOffspring/CalculatingExpectedOffspring.md)
-* [Finding a Shared Motif](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/code/FindingSharedMotif.md)
+* [Finding a Shared Motif](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/FindingSharedMotif/FindingSharedMotif.md)
 * [Independent Alleles](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/IndependentAlleles/IndependentAlleles.md)
 * [Finding a Protein Motif](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/FindingProteinMotif/FindingProteinMotif.md)
 * [Inferring mRNA from Protein](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/InferringmRNAfromProtein/InferringmRNAfromProtein.md)
