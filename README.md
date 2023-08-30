@@ -33,5 +33,7 @@ https://kaiwang0112006.github.io/rosalind_solve
 * [k-Mer Composition](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/k-MerComposition/k-MerComposition.md)
 * [Speeding Up Motif Finding](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/SpeedingUpMotifFinding/SpeedingUpMotifFinding.md)
 * [Finding a Shared Spliced Motif](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/FindingaSharedSplicedMotif/FindingaSharedSplicedMotif.md)
+* [Ordering Strings of Varying Length Lexicographically](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/OrderingStringsofVaryingLengthLexicographically/OrderingStringsofVaryingLengthLexicographically.md)
+
 
 	
