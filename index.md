@@ -30,6 +30,7 @@
 * [Speeding Up Motif Finding](https://kaiwang0112006.github.io/rosalind_solve/code/SpeedingUpMotifFinding/SpeedingUpMotifFinding)
 * [Finding a Shared Spliced Motif](https://kaiwang0112006.github.io/rosalind_solve/code/FindingaSharedSplicedMotif/FindingaSharedSplicedMotif)
 * [Ordering Strings of Varying Length Lexicographically](https://kaiwang0112006.github.io/rosalind_solve/code/OrderingStringsofVaryingLengthLexicographically/OrderingStringsofVaryingLengthLexicographically)
+* [Maximum Matchings and RNA Secondary Structures](https://kaiwang0112006.github.io/rosalind_solve/code/MaximumMatchingsandRNASecondaryStructures/MaximumMatchingsandRNASecondaryStructures)
 
 
 
