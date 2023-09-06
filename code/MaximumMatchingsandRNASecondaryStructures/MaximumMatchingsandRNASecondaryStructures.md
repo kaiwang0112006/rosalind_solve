@@ -43,4 +43,5 @@
 
         print(num)
 
-但这个问题有一个需要关注，即python的rounding issue。factorial得到的结果是float浮点数，相乘和相除的数过多会有误差。
+但这个问题有一个需要关注，即python的rounding issue。factorial得到的结果是float浮点数，相乘和相除的数过多会有误差。详情见
+[脚本](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/MaximumMatchingsandRNASecondaryStructures/rounding_issue.py)
