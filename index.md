@@ -29,10 +29,14 @@
 * [k-Mer Composition](https://kaiwang0112006.github.io/rosalind_solve/code/k-MerComposition/k-MerComposition)
 * [Speeding Up Motif Finding](https://kaiwang0112006.github.io/rosalind_solve/code/SpeedingUpMotifFinding/SpeedingUpMotifFinding)
 * [Finding a Shared Spliced Motif](https://kaiwang0112006.github.io/rosalind_solve/code/FindingaSharedSplicedMotif/FindingaSharedSplicedMotif)
+<<<<<<< HEAD
+* [Reversal Distance](https://kaiwang0112006.github.io/rosalind_solve/code/ReversalDistance/ReversalDistance)
+=======
 * [Ordering Strings of Varying Length Lexicographically](https://kaiwang0112006.github.io/rosalind_solve/code/OrderingStringsofVaryingLengthLexicographically/OrderingStringsofVaryingLengthLexicographically)
 * [Maximum Matchings and RNA Secondary Structures](https://kaiwang0112006.github.io/rosalind_solve/code/MaximumMatchingsandRNASecondaryStructures/MaximumMatchingsandRNASecondaryStructures)
 * [Creating a Distance Matrix](https://kaiwang0112006.github.io/rosalind_solve/code/CreatingaDistanceMatrix/CreatingaDistanceMatrix)
 
+>>>>>>> ccdbb6448548c9e9a86ea2d7bd4702c3d2d5b7fa
 
 
 	
