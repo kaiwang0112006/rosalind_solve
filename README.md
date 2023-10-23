@@ -37,3 +37,4 @@ https://kaiwang0112006.github.io/rosalind_solve
 * [Maximum Matchings and RNA Secondary Structures](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/MaximumMatchingsandRNASecondaryStructures/MaximumMatchingsandRNASecondaryStructures.md)
 * [Creating a Distance Matrix](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/CreatingaDistanceMatrix/CreatingaDistanceMatrix.md)
 * [Reversal Distance](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/ReversalDistance/ReversalDistance.md)
+* [Matching Random Motifs](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/MatchingRandomMotifs/MatchingRandomMotifs.md)
