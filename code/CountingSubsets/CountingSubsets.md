@@ -27,6 +27,8 @@
                 num += comb
             print(num%1000000)
 
+实际上答案就是2的n次方
+
 ### 扩展
 
 性状(character)是区分同一物种的不同群体的特征。常见的遗传形状是由单核苷酸多态性(singlenucleotide polymorphism, SNP)引起的。
