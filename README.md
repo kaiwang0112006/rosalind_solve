@@ -38,3 +38,4 @@ https://kaiwang0112006.github.io/rosalind_solve
 * [Creating a Distance Matrix](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/CreatingaDistanceMatrix/CreatingaDistanceMatrix.md)
 * [Reversal Distance](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/ReversalDistance/ReversalDistance.md)
 * [Matching Random Motifs](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/MatchingRandomMotifs/MatchingRandomMotifs.md)
+* [Counting Subsets](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/CountingSubsets/CountingSubsets.md)
