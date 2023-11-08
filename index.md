@@ -35,3 +35,4 @@
 * [Reversal Distance](https://kaiwang0112006.github.io/rosalind_solve/code/ReversalDistance/ReversalDistance)
 * [Matching Random Motifs](https://kaiwang0112006.github.io/rosalind_solve/code/MatchingRandomMotifs/MatchingRandomMotifs)
 * [Counting Subsets](https://kaiwang0112006.github.io/rosalind_solve/code/CountingSubsets/CountingSubsets)
+* [Introduction to Alternative Splicing](https://kaiwang0112006.github.io/rosalind_solve/code/IntroductiontoAlternativeSplicing/IntroductiontoAlternativeSplicing)
