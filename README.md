@@ -41,3 +41,4 @@ https://kaiwang0112006.github.io/rosalind_solve
 * [Counting Subsets](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/CountingSubsets/CountingSubsets.md)
 * [Introduction to Alternative Splicing](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/IntroductiontoAlternativeSplicing/IntroductiontoAlternativeSplicing.md)
 * [Edit Distance](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/EditDistance/EditDistance.md)
+* [Expected Number of Restriction Sites](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/ExpectedNumberofRestrictionSites/ExpectedNumberofRestrictionSites.md)
