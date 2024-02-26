@@ -42,3 +42,4 @@ https://kaiwang0112006.github.io/rosalind_solve
 * [Introduction to Alternative Splicing](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/IntroductiontoAlternativeSplicing/IntroductiontoAlternativeSplicing.md)
 * [Edit Distance](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/EditDistance/EditDistance.md)
 * [Expected Number of Restriction Sites](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/ExpectedNumberofRestrictionSites/ExpectedNumberofRestrictionSites.md)
+* [Motzkin Numbers and RNA Secondary Structures](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/MotzkinNumbersandRNASecondaryStructures/MotzkinNumbersandRNASecondaryStructures.md)
