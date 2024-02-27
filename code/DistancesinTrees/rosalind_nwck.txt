@@ -1,0 +1,11 @@
+(cat)dog;
+dog cat
+
+(dog,cat);
+dog cat
+
+(dog,cat) human;
+dog cat
+
+(A,B, (C,D)E)F;
+A F
