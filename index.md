@@ -41,3 +41,4 @@
 * [Motzkin Numbers and RNA Secondary Structures](https://kaiwang0112006.github.io/rosalind_solve/code/MotzkinNumbersandRNASecondaryStructures/MotzkinNumbersandRNASecondaryStructures)
 * [Distances in Trees](https://kaiwang0112006.github.io/rosalind_solve/code/DistancesinTrees/DistancesinTrees)
 * [Interleaving Two Motifs](https://kaiwang0112006.github.io/rosalind_solve/code/InterleavingTwoMotifs/InterleavingTwoMotifs)
+* [Introduction to Set Operations](https://kaiwang0112006.github.io/rosalind_solve/code/IntroductiontoSetOperations/IntroductiontoSetOperations)

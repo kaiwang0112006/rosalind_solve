@@ -45,3 +45,4 @@ https://kaiwang0112006.github.io/rosalind_solve
 * [Motzkin Numbers and RNA Secondary Structures](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/MotzkinNumbersandRNASecondaryStructures/MotzkinNumbersandRNASecondaryStructures.md)
 * [Distances in Trees](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/DistancesinTrees/DistancesinTrees.md)
 * [Interleaving Two Motifs](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/InterleavingTwoMotifs/InterleavingTwoMotifs.md)
+* [Introduction to Set Operations](https://github.com/kaiwang0112006/rosalind_solve/blob/main/code/IntroductiontoSetOperations/IntroductiontoSetOperations.md)
