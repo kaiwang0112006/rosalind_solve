@@ -40,3 +40,4 @@
 * [Expected Number of Restriction Sites](https://kaiwang0112006.github.io/rosalind_solve/code/ExpectedNumberofRestrictionSites/ExpectedNumberofRestrictionSites)
 * [Motzkin Numbers and RNA Secondary Structures](https://kaiwang0112006.github.io/rosalind_solve/code/MotzkinNumbersandRNASecondaryStructures/MotzkinNumbersandRNASecondaryStructures)
 * [Distances in Trees](https://kaiwang0112006.github.io/rosalind_solve/code/DistancesinTrees/DistancesinTrees)
+* [Interleaving Two Motifs](https://kaiwang0112006.github.io/rosalind_solve/code/InterleavingTwoMotifs/InterleavingTwoMotifs)
