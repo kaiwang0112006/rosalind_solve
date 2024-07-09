@@ -43,3 +43,4 @@
 * [Interleaving Two Motifs](https://kaiwang0112006.github.io/rosalind_solve/code/InterleavingTwoMotifs/InterleavingTwoMotifs)
 * [Introduction to Set Operations](https://kaiwang0112006.github.io/rosalind_solve/code/IntroductiontoSetOperations/IntroductiontoSetOperations)
 * [Sorting by Reversals](https://kaiwang0112006.github.io/rosalind_solve/code/SortingbyReversals/SortingbyReversals)
+* [Inferring Protein from Spectrum](https://kaiwang0112006.github.io/rosalind_solve/code/InferringProteinfromSpectrum/InferringProteinfromSpectrum)
